@@ -15,8 +15,8 @@ const App = () => {
         <Navbar />
         <Routes>
           <Route path='/' index element={<ShowList setProgress={setProgress} />}/>
-          <Route path='/show/:id' element={<ShowDetails setProgress={setProgress} />}
-          />
+          <Route path='/show/:id' element={<ShowDetails setProgress={setProgress} />}/>
+          <Route path='*' index element={<ShowList setProgress={setProgress} />}/>
         </Routes>
       </Router>
     </div>
