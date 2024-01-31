@@ -14,7 +14,7 @@ const App = () => {
         <LoadingBar color='#f11946' progress={progress} />
         <Navbar />
         <Routes>
-          <Route path='/' element={<ShowList setProgress={setProgress} />}/>
+          <Route path='/' index element={<ShowList setProgress={setProgress} />}/>
           <Route path='/show/:id' element={<ShowDetails setProgress={setProgress} />}
           />
         </Routes>
