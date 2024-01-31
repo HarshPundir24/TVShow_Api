@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TVShow_Api/static/css/main.e6c13ad2.css",
+    "main.js": "/TVShow_Api/static/js/main.02d1591e.js",
+    "static/js/787.c4f32ede.chunk.js": "/TVShow_Api/static/js/787.c4f32ede.chunk.js",
+    "index.html": "/TVShow_Api/index.html",
+    "main.e6c13ad2.css.map": "/TVShow_Api/static/css/main.e6c13ad2.css.map",
+    "main.02d1591e.js.map": "/TVShow_Api/static/js/main.02d1591e.js.map",
+    "787.c4f32ede.chunk.js.map": "/TVShow_Api/static/js/787.c4f32ede.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.02d1591e.js"
+  ]
+}
