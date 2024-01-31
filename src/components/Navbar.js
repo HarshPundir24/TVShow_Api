@@ -7,7 +7,7 @@ const Navbar = () => {
       <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
           <h5 className='text-white'>TV Shows</h5>
-          <div className="collapse navbar-collapse" id="navbarNav">
+          <div className="navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">
               <li className="nav-item"><Link className="nav-link" to="/">Home</Link></li>
             </ul>
